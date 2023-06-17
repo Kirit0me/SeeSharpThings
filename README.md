@@ -1,2 +1,2 @@
 # SeeSharpThings
-V.ARISE
+VARISE
